@@ -1,0 +1,7 @@
+{
+  "cardTransactionProductInstanceReference" : "CTPI8390",
+  "cardAuthorizationCreditCheck" : "CreditCheck",
+  "cardAccountAvailableBalanceCheckResult" : "$7300",
+  "cardAuthorizationRecord" : {},
+  "cardAuthorizationReference" : "CAZR1031"
+}

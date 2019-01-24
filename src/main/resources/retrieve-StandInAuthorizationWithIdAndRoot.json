@@ -1,0 +1,8 @@
+{
+  "negativeFileReference" : "NEFL2342",
+  "cardTransactionIssuedDeviceReference" : "CTID8362",
+  "cardAccountStandInAuthorizationRecord" : {},
+  "cardAuthorizationRecord" : {},
+  "cardAuthorizationReference" : "CAZR1031",
+  "cardAuthorizationStandInAuthorizationCheck" : "StandInAuthorizationCheck"
+}

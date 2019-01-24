@@ -1,0 +1,12 @@
+{
+  "cardTransactionProductInstanceReference" : "CTPI8390",
+  "authenticationSecretQuestionValue" : "ProvidedToExpectedValueCheck",
+  "authenticationSecretQuestionTemplate" : "IdentityRequestAndResponse",
+  "cardAuthorizationRecord" : {},
+  "cardAuthorizationAuthenticationCheck" : "CardHolderVerification",
+  "authenticationSecretQuestionReference" : "IdentityVerification",
+  "cardAuthorizationReference" : "CAZR1031",
+  "cardHolderAccountPassword" : "Password",
+  "issuedDevicePIN" : "2779",
+  "cardHolderReference" : "CHRE3423"
+}

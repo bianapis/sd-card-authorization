@@ -1,0 +1,12 @@
+{
+  "issuedDeviceCryptogram" : "AXSPRJFK",
+  "issuedDeviceValidThrough" : "09-07-2018",
+  "cardTransactionIssuedDeviceReference" : "CTID8362",
+  "cardAuthorizationRecord" : {},
+  "cardAuthorizationReference" : "CAZR1031",
+  "issuedDeviceSecurityCode" : "12628100",
+  "issuedDeviceCheckDigit" : "Algorithm",
+  "issuedDeviceCVV" : "843",
+  "cardAuthorizationIssuedDeviceCheck" : "DeviceVerification",
+  "issuedDeviceBIN" : "SBIN3131"
+}
